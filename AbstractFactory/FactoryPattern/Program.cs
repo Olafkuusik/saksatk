@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Kommenteritud
 namespace Factory
 {
 
