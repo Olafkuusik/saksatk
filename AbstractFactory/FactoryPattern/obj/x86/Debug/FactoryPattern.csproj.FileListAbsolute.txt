@@ -1,0 +1,5 @@
+/Users/macbook/Projects/FactoryPattern/FactoryPattern/bin/Debug/FactoryPattern.exe
+/Users/macbook/Projects/FactoryPattern/FactoryPattern/bin/Debug/FactoryPattern.pdb
+/Users/macbook/Projects/FactoryPattern/FactoryPattern/obj/x86/Debug/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/FactoryPattern/FactoryPattern/obj/x86/Debug/FactoryPattern.exe
+/Users/macbook/Projects/FactoryPattern/FactoryPattern/obj/x86/Debug/FactoryPattern.pdb
